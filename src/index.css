@@ -3,3 +3,10 @@
 @import "tailwindcss/components";
 
 @import "tailwindcss/utilities";
+
+* {
+  color: #fff;
+}
+body {
+  background-color: #111;
+}
